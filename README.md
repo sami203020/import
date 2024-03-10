@@ -1,2 +1,2 @@
 # import
-code for learning..
+code for learning.
